@@ -1,0 +1,72 @@
+main logger - 2022-04-26 17:37:16 - INFO - Created processors
+main logger - 2022-04-26 17:37:16 - INFO - Pipeline selected
+main logger - 2022-04-26 17:37:16 - INFO - Transforming image
+main logger - 2022-04-26 17:38:27 - INFO - Created processors
+main logger - 2022-04-26 17:38:27 - INFO - Pipeline selected
+main logger - 2022-04-26 17:38:27 - INFO - Transforming image
+main logger - 2022-04-26 17:38:37 - INFO - Created processors
+main logger - 2022-04-26 17:38:37 - INFO - Pipeline selected
+main logger - 2022-04-26 17:38:37 - INFO - Transforming image
+main logger - 2022-04-26 17:39:52 - INFO - Created processors
+main logger - 2022-04-26 17:39:52 - INFO - Pipeline selected
+main logger - 2022-04-26 17:39:52 - INFO - Transforming image
+main logger - 2022-04-26 17:40:06 - INFO - Created processors
+main logger - 2022-04-26 17:40:06 - INFO - Pipeline selected
+main logger - 2022-04-26 17:40:06 - INFO - Transforming image
+main logger - 2022-04-26 17:40:27 - INFO - Created processors
+main logger - 2022-04-26 17:40:27 - INFO - Pipeline selected
+main logger - 2022-04-26 17:40:27 - INFO - Transforming image
+main logger - 2022-04-26 17:40:28 - INFO - OCR started...
+main logger - 2022-04-26 17:43:26 - INFO - Created processors
+main logger - 2022-04-26 17:43:26 - INFO - Pipeline selected
+main logger - 2022-04-26 17:43:26 - INFO - Transforming image
+main logger - 2022-04-26 17:43:27 - INFO - OCR started...
+main logger - 2022-04-26 17:43:30 - INFO - OCR done!
+main logger - 2022-04-26 17:43:30 - INFO - OCR took 3.13 sec.
+main logger - 2022-04-26 17:43:30 - INFO - Deleting redundant symbols
+main logger - 2022-04-26 17:43:30 - INFO - Pipeline forward
+main logger - 2022-04-26 17:43:30 - ERROR - [Errno 21] Is a directory: './'
+main logger - 2022-04-26 17:43:30 - INFO - Writing to the output file...
+main logger - 2022-04-26 17:43:30 - INFO - DONE!
+main logger - 2022-04-26 17:44:26 - INFO - Created processors
+main logger - 2022-04-26 17:44:26 - INFO - Pipeline selected
+main logger - 2022-04-26 17:44:26 - INFO - Transforming image
+main logger - 2022-04-26 17:44:27 - INFO - OCR started...
+main logger - 2022-04-26 17:44:28 - INFO - OCR done!
+main logger - 2022-04-26 17:44:28 - INFO - OCR took 0.96 sec.
+main logger - 2022-04-26 17:44:28 - INFO - Deleting redundant symbols
+main logger - 2022-04-26 17:44:28 - INFO - Pipeline forward
+main logger - 2022-04-26 17:44:28 - INFO - Writing to the output file...
+main logger - 2022-04-26 17:44:28 - INFO - DONE!
+main logger - 2022-04-26 17:48:11 - INFO - Created processors
+main logger - 2022-04-26 17:48:11 - INFO - Pipeline selected
+main logger - 2022-04-26 17:48:11 - INFO - Transforming image
+main logger - 2022-04-26 17:48:58 - INFO - Created processors
+main logger - 2022-04-26 17:48:58 - INFO - Pipeline selected
+main logger - 2022-04-26 17:48:58 - INFO - Transforming image
+main logger - 2022-04-26 17:48:58 - INFO - OCR started...
+main logger - 2022-04-26 17:48:58 - INFO - OCR done!
+main logger - 2022-04-26 17:48:58 - INFO - OCR took 0.29 sec.
+main logger - 2022-04-26 17:48:58 - INFO - Deleting redundant symbols
+main logger - 2022-04-26 17:48:58 - INFO - Pipeline forward
+main logger - 2022-04-26 17:48:58 - INFO - Writing to the output file...
+main logger - 2022-04-26 17:48:58 - INFO - DONE!
+main logger - 2022-04-26 20:37:15 - INFO - Created processors
+main logger - 2022-04-26 20:37:15 - INFO - Pipeline selected
+main logger - 2022-04-26 20:37:15 - INFO - PDF Pipeline forwarding
+main logger - 2022-04-26 20:37:15 - ERROR - PDF info not installed
+main logger - 2022-04-26 20:37:15 - INFO - Received 0 images from PDF sheets
+main logger - 2022-04-26 20:37:15 - INFO - PDF Pipeline is done
+main logger - 2022-04-26 20:37:15 - INFO - Pipeline forward
+main logger - 2022-04-26 20:37:15 - INFO - Writing to the output file...
+main logger - 2022-04-26 20:37:15 - INFO - DONE!
+main logger - 2022-04-26 20:57:46 - INFO - Created processors
+main logger - 2022-04-26 20:57:46 - INFO - Pipeline selected
+main logger - 2022-04-26 20:57:46 - INFO - Transforming image
+main logger - 2022-04-26 20:57:46 - INFO - OCR started...
+main logger - 2022-04-26 20:57:47 - INFO - OCR done!
+main logger - 2022-04-26 20:57:47 - INFO - OCR took 1.07 sec.
+main logger - 2022-04-26 20:57:47 - INFO - Deleting redundant symbols
+main logger - 2022-04-26 20:57:47 - INFO - Pipeline forward
+main logger - 2022-04-26 20:57:47 - INFO - Writing to the output file...
+main logger - 2022-04-26 20:57:47 - INFO - DONE!
