@@ -14,3 +14,5 @@ From main directory run :
 Also can be used :
 
 `python main.py --help`
+
+Post-processing can be improved by adding NLP libraries to the project and working with dictionaries, punctuation, and thereby can be improved recognition accuracy.
