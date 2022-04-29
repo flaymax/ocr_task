@@ -13,4 +13,4 @@ From main directory run :
 
 Also can be used :
 
-`python main.py --help'
+`python main.py --help`
