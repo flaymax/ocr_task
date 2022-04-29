@@ -16,3 +16,5 @@ Also can be used :
 `python main.py --help`
 
 Post-processing can be improved by adding NLP libraries to the project and working with dictionaries, punctuation, and thereby can be improved recognition accuracy.
+
+There is also second part of the task - .<a href="https://github.com/flaymax/ocr_task/blob/main/NexusAIChallenge/nexus_BykovAlexandr.pdf">NexusAI-challenge</a>
